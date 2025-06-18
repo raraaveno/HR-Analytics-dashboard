@@ -46,7 +46,7 @@ To identify patterns and trends in **employee attrition** using visual storytell
 
 ## 💬 Let’s Connect
 
-If you’re interested in this dashboard or want to collaborate on other data projects, feel free to [connect with me on LinkedIn](www.linkedin.com/in/bogdan-tudose-478476132).
+If you’re interested in this dashboard or want to collaborate on other data projects, feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/bogdan-tudose-478476132).
 
 ---
 
